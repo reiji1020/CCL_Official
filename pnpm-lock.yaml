@@ -4,6 +4,11 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+dependencies:
+  cclkit4svelte:
+    specifier: 0.1.2-a
+    version: 0.1.2-a
+
 devDependencies:
   '@sveltejs/adapter-auto':
     specifier: ^3.0.0
@@ -900,6 +905,11 @@ packages:
     resolution: {integrity: sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==}
     engines: {node: '>=6'}
     dev: true
+
+  /cclkit4svelte@0.1.2-a:
+    resolution: {integrity: sha512-85v1ettkGEGmoOxsLQFJ502gmpKtVn3Yc1zi0eyOh2frbjGexWmTKoFKyf2wYn4OZLnjzbiKCrrRqJoj2BJ4BQ==}
+    requiresBuild: true
+    dev: false
 
   /chai@4.4.1:
     resolution: {integrity: sha512-13sOfMv2+DWduEU+/xbun3LScLoqN17nBeTLUsmDfKdoiC1fr0n9PU4guu4AhRcOVFk/sW8LyZWHuhWtQZiF+g==}
