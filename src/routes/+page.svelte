@@ -4,6 +4,7 @@
 </script>
 
 <div class="ccl-header">
+    <!--    HEADER      -->
     <a href="/">
         <Header bgColor="--strawberry-pink" height="--hd-nomal"/>
     </a>
@@ -12,6 +13,7 @@
     hogehoge
 </main>
 <div class="ccl-footer">
+    <!--    FOOTER      -->
     <Footer class="ccl-footer" bgColor="--strawberry-pink" />
 </div>
 
