@@ -1,6 +1,8 @@
 <script>
     import { Header } from 'cclkit4svelte';
     import { Footer } from "cclkit4svelte";
+    import SubTitle from "$lib/Subtitle.svelte";
+    import ActivityLog from "$lib/ActivityLog.svelte";
 </script>
 
 <div class="ccl-header">
@@ -10,11 +12,14 @@
     </a>
 </div>
 <main>
-    hogehoge
+    <!--    MainCard-->
+    <SubTitle />
+    <!--    ActivityLog-->
+    <ActivityLog />
 </main>
 <div class="ccl-footer">
     <!--    FOOTER      -->
-    <Footer class="ccl-footer" bgColor="--strawberry-pink" />
+    <Footer bgColor="--strawberry-pink" />
 </div>
 
 <style lang="scss">
