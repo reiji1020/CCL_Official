@@ -1,5 +1,5 @@
 <div class="subtitle-wrapper">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 423.93 36.25">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 37">
         <title>Sewing!Coding!Writing!</title>
         <g id="SubTitle">
             <g>
@@ -32,17 +32,18 @@
 
 <style>
     .subtitle-wrapper {
-        display: flex;
-        padding: 0 250px;
-        justify-content: center;
-        align-items: center;
-        height: 128px;
+        position: relative;
+        aspect-ratio: 16/3;
     }
 
     svg {
-        display: inline-block;
-        vertical-align: top;
-        height: 256px;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        height: 30%;
     }.cls-1 {
             fill: var(--strawberry-pink)
          }

@@ -3,6 +3,7 @@
     import { Footer } from "cclkit4svelte";
     import SubTitle from "$lib/Subtitle.svelte";
     import ActivityLog from "$lib/ActivityLog.svelte";
+    import Member from "$lib/Member.svelte";
 </script>
 
 <div class="ccl-header">
@@ -16,6 +17,8 @@
     <SubTitle />
     <!--    ActivityLog-->
     <ActivityLog />
+    <!--    Member-->
+    <Member />
 </main>
 <div class="ccl-footer">
     <!--    FOOTER      -->

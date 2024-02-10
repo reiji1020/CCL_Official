@@ -1,5 +1,5 @@
 <div class="activity-log-wrapper">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272.84 34.7">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 35">
         <title>Activity</title>
         <g id="Update">
             <g>
@@ -25,18 +25,19 @@
 
 <style>
     .activity-log-wrapper {
-        display: flex;
-        padding: 0 380px;
-        justify-content: center;
-        align-items: center;
-        height: 128px;
+        position: relative;
+        aspect-ratio: 16/3;
     }
 
     svg {
-        display: inline-block;
-        vertical-align: top;
-        height: 256px;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+        height: 30%;
     }.cls-2 {
-            fill: var(--pineapple-yellow)
-         }
+         fill: var(--pineapple-yellow)
+     }
 </style>
