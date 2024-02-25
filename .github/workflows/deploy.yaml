@@ -25,6 +25,8 @@ jobs:
         run: pnpm install
 
       - name: build
+        env:
+          BASE_PATH: '/TopPage'
         run: |
           pnpm run build
 
