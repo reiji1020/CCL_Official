@@ -25,8 +25,8 @@ jobs:
         run: pnpm install
 
       - name: build
-        env:
-          BASE_PATH: '/${{ github.event.repository.name }}'
+#        env:
+#          BASE_PATH: '/CCL_Official'
         run: |
           pnpm run build
 
