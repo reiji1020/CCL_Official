@@ -21,8 +21,4 @@
         height: 24px;
         fill: #ffffff;
     }
-
-    .misskey-logo {
-        padding: 5px 0;
-    }
 </style>

@@ -1,6 +1,6 @@
 <script lang="ts">
     /**
-     * Xのプロフィールページへのリンク
+     * Teitchのチャンネルページへのリンク
      */
     export let url : string;
 </script>
@@ -29,6 +29,6 @@
     }
 
     .twitch-logo {
-        padding: 5px 0;
+        padding: 0 15px;
     }
 </style>

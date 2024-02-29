@@ -1,9 +1,9 @@
 <script lang="ts">
 import { Thumbnail } from 'cclkit4svelte';
-import XIcon from "$lib/XIcon.svelte";
-import MisskeyIcon from "$lib/MisskeyIcon.svelte";
-import YoutubeIcon from "$lib/YoutubeIcon.svelte";
-import TwitchIcon from "$lib/TwitchIcon.svelte";
+import XIcon from "$lib/Icon/XIcon.svelte";
+import MisskeyIcon from "$lib/Icon/MisskeyIcon.svelte";
+import YoutubeIcon from "$lib/Icon/YoutubeIcon.svelte";
+import TwitchIcon from "$lib/Icon/TwitchIcon.svelte";
     </script>
 
 <div class="members-wrapper">

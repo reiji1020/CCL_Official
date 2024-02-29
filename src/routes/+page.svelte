@@ -1,9 +1,10 @@
 <script>
     import {Card, Footer, Header} from 'cclkit4svelte';
-    import SubTitle from "$lib/Subtitle.svelte";
-    import ActivityLog from "$lib/ActivityLog.svelte";
-    import Member from "$lib/Member.svelte";
-    import Members from "$lib/Members.svelte";
+    import SubTitle from "$lib/logo/Subtitle.svelte";
+    import ActivityLog from "$lib/logo/ActivityLog.svelte";
+    import Member from "$lib/logo/Member.svelte";
+    import Members from "$lib/component/Members.svelte";
+    import NavBar from "$lib/component/NavBar.svelte";
 </script>
 
 <div class="ccl-header">
@@ -40,6 +41,7 @@
 </main>
 <div class="ccl-footer">
     <!--    FOOTER      -->
+    <NavBar />
     <Footer bgColor="--strawberry-pink"/>
 </div>
 
