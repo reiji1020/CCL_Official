@@ -19,7 +19,7 @@ import TwitchIcon from "$lib/Icon/TwitchIcon.svelte";
         <br />
         <span class="profile">Multi Creator</span>
         <br />
-        <div class="sns-wrapper">
+        <div class="icon-wrapper">
             <XIcon url="https://twitter.com/reiji1020"/>
             <MisskeyIcon url="https://misskey.io/@reiji1020" />
             <YoutubeIcon url="https://www.youtube.com/channel/UC5wBcqkoK3SGSrF4VRojcbQ" />
@@ -53,7 +53,7 @@ import TwitchIcon from "$lib/Icon/TwitchIcon.svelte";
         color: var(--wrap-grey);
     }
 
-    .sns-wrapper {
+    .icon-wrapper {
         display: flex;
         justify-content: space-between;
         align-items: center;
