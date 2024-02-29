@@ -33,7 +33,7 @@
 <style>
     .subtitle-wrapper {
         position: relative;
-        aspect-ratio: 16/3;
+        aspect-ratio: 12/3;
     }
 
     svg {
