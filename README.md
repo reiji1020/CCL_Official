@@ -1,18 +1,29 @@
-# create-svelte
+# CANDY CHUPS Lab. OFFICIAL SITE
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/14a33199-af46-4a8c-b689-7ec9ca5f9a87/deploy-status)](https://app.netlify.com/sites/candychupslab/deploys)
 
-## Creating a project
+CANDY CHUPS Lab.の公式サイトのリポジトリです。本プロジェクトは[Svelte](https://kit.svelte.jp/)で開発されています。
 
-If you're seeing this, you've probably already done this step. Congrats!
+公式サイトの開発を始めるにはNode.js v20以降の実行環境と`pnpm`が必要です。
+
+## 開発環境構築
+
+リポジトリをクローンしてきたのち、`pnpm install`で依存パッケージをインストールしてください。
+
+依存パッケージがダウンロードできたら、以下のコマンドで開発サーバーを立ち上げることができるようになります。
 
 ```bash
-# create a new project in the current directory
-pnpm create svelte@latest
+pnpm run dev
 
-# create a new project in my-app
-pnpm create svelte@latest my-app
+# or start the server and open the app in a new browser tab
+pnpm run dev -- --open
 ```
+
+# CANDY CHUPS Lab. OFFICIAL SITE(EN)
+
+This is the official website repository of the CANDY CHUPS Lab. This project is developed by [Svelte](https://kit.svelte.dev/).
+
+To start developing an official website, you need a Node.js v20 or later runtime environment and `pnpm`.
 
 ## Developing
 
@@ -24,15 +35,3 @@ pnpm run dev
 # or start the server and open the app in a new browser tab
 pnpm run dev -- --open
 ```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-pnpm run build
-```
-
-You can preview the production build with `pnpm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
