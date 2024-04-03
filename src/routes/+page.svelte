@@ -21,20 +21,22 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
+            <a href="https://github.com/reiji1020/ccl-component-kit4svelte" target="_blank">
+                <Card borderColor="--soda-blue" src="./thumbnail.png"
+                      altText="Svelteコンポーネントライブラリ" title="UIライブラリ開発中！"
+                      cardText="完全Svelte製のUIコンポーネントライブラリ「cclkit4svelte」開発中です！"/>
+            </a>
+        </div>
+        <div class="card-padding">
             <a href="https://reiji1020.hatenablog.com/entry/2024/03/15/210000" target="_blank">
-                <Card borderColor="--pineapple-yellow" bgColor="--lemon-yellow" src="./thumbnail.png"
+                <Card borderColor="--pineapple-yellow" src="./thumbnail.png"
                       altText="CANDYCHUPSLab." title="技術書典16のオン・オフ参加決定！"
                       cardText="技術書典16のスペースを無事にいただくことができました！新刊情報は随時公開します。"/>
             </a>
         </div>
         <div class="card-padding">
-            <Card borderColor="--pineapple-yellow" bgColor="--lemon-yellow" src="./thumbnail.png"
-                  altText="CANDYCHUPSLab." title="技術書典16にサークル参加を申し込みました！"
-                  cardText="2024年春に開催される技術書典16へサークル出典を申し込みました。Svelte関連の本が出ます。"/>
-        </div>
-        <div class="card-padding">
             <a href="https://nextpublishing.jp/book/13898.html" target="_blank">
-                <Card borderColor="--strawberry-pink" bgColor="--peach-pink" src="./20240201.jpg"
+                <Card borderColor="--strawberry-pink" src="./20240201.jpg"
                       altText="実践Reactコンポーネントライブラリ開発" title="新刊が発売されました！"
                       cardText="インプレスR&D様よりReactコンポーネントライブラリの本を出させていただきました。"/>
             </a>
@@ -42,7 +44,7 @@
     </div>
     <ActivityLog/>
     <div style="display: flex; justify-content: center; align-items: center">
-        <Table tableColor="--pineapple-yellow" subTableColor="--lemon-yellow" dataHeader={updateTitle} tableData={updateData} />
+        <Table tableColor="--pineapple-yellow" dataHeader={updateTitle} tableData={updateData} />
     </div>
     <!--    Member-->
     <Member/>
