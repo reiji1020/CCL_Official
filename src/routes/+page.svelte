@@ -21,6 +21,13 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
+            <a href="https://gyaopan.booth.pm/items/5648807" target="_blank">
+                <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./Svelte.png"
+                      altText="技術書典16の新刊書影を公開中" title="技術書典16の新刊書影を公開！"
+                      cardText="技術書典16で頒布予定の新刊の書影を公開しました！通販情報も随時追加予定です。"/>
+            </a>
+        </div>
+        <div class="card-padding">
             <a href="https://github.com/reiji1020/ccl-component-kit4svelte" target="_blank">
                 <Card borderColor={CCLVividColor.SODA_BLUE} src="./thumbnail.png"
                       altText="Svelteコンポーネントライブラリ" title="UIライブラリ開発中！"
