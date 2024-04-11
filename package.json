@@ -34,7 +34,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"cclkit4svelte": "^0.2.5"
+		"cclkit4svelte": "^0.2.6"
 	},
 	"volta": {
 		"node": "20.11.1",

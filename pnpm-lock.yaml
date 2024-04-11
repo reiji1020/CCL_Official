@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   cclkit4svelte:
-    specifier: ^0.2.5
-    version: 0.2.5
+    specifier: ^0.2.6
+    version: 0.2.6
 
 devDependencies:
   '@sveltejs/adapter-static':
@@ -924,8 +924,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /cclkit4svelte@0.2.5:
-    resolution: {integrity: sha512-12rhSRPE7MSt3MdoBim74dj5vPiIQzM2Zj6BqwJPIGKmabHO0is+6fpZpM2LkE5l+wcOAcvzoJhKKiZsUKPVAQ==}
+  /cclkit4svelte@0.2.6:
+    resolution: {integrity: sha512-+6Jbj462Eegb9UCMK+4u7p0Ht4B+FJUYj3apF6+edrnN47HX/fOUt5Gh3wWgXEGkfQTkZrydC9pH/gIgW2NHHw==}
     requiresBuild: true
     dev: false
 
