@@ -23,8 +23,8 @@
         <div class="card-padding">
             <a href="https://gyaopan.booth.pm/items/5648807" target="_blank">
                 <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./Svelte.png"
-                      altText="技術書典16の新刊書影を公開中" title="技術書典16の新刊書影を公開！"
-                      cardText="技術書典16で頒布予定の新刊の書影を公開しました！通販情報も随時追加予定です。"/>
+                      altText="技術書典16の新刊予約受付中！" title="技術書典16の新刊予約受付中！"
+                      cardText="技術書典16で頒布予定の新刊サンプルを出しました。BOOTHでは予約も受付中です"/>
             </a>
         </div>
         <div class="card-padding">
@@ -35,16 +35,9 @@
             </a>
         </div>
         <div class="card-padding">
-            <a href="https://reiji1020.hatenablog.com/entry/2024/03/15/210000" target="_blank">
-                <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./thumbnail.png"
-                      altText="CANDYCHUPSLab." title="技術書典16のオン・オフ参加決定！"
-                      cardText="技術書典16のスペースを無事にいただくことができました！新刊情報は随時公開します。"/>
-            </a>
-        </div>
-        <div class="card-padding">
             <a href="https://nextpublishing.jp/book/13898.html" target="_blank">
                 <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./20240201.jpg"
-                      altText="実践Reactコンポーネントライブラリ開発" title="新刊が発売されました！"
+                      altText="実践Reactコンポーネントライブラリ開発" title="商業本が発売されました！"
                       cardText="インプレスR&D様よりReactコンポーネントライブラリの本を出させていただきました。"/>
             </a>
         </div>
