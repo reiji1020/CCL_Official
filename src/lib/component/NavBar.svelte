@@ -6,11 +6,11 @@
     import InstagramIcon from "$lib/Icon/InstagramIcon.svelte";
     import BoothIcon from "$lib/Icon/BoothIcon.svelte";
     import BaseIcon from "$lib/Icon/BaseIcon.svelte";
+    import XfolioIcon from "$lib/Icon/XfolioIcon.svelte";
 </script>
 
 <div class="navbar-wrapper">
     <span class="title">SNS</span>
-    <br />
     <div class="icon-wrapper">
         <XIcon url="https://twitter.com/candychupslab"/>
         <MisskeyIcon url="https://misskey.io/"/>
@@ -18,8 +18,11 @@
         <TiktokIcon url="https://www.tiktok.com/@candychupslab?lang=ja-JP" />
         <InstagramIcon url="https://www.instagram.com/candychupslab/"/>
     </div>
+    <span class="title">Portfolio</span>
+    <div class="icon-wrapper">
+        <XfolioIcon url="https://xfolio.jp/portfolio/candychupslab" />
+    </div>
     <span class="title">SHOP</span>
-    <br />
     <div class="icon-wrapper">
         <BaseIcon url="https://cclshop.base.shop/"/>
         <BoothIcon url="https://gyaopan.booth.pm/"/>
@@ -29,7 +32,7 @@
 <style>
     .navbar-wrapper {
         width: 100%;
-        height: 256px;
+        height: 300px;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -38,6 +41,7 @@
     }
 
     .title {
+        padding: 10px 0;
         font-size: 24px;
         color: #ffffff;
     }
