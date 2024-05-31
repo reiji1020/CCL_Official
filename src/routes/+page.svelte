@@ -42,7 +42,7 @@
             </a>
         </div>
         <div class="card-padding">
-            <a href="https://nextpublishing.jp/book/13898.html" target="_blank">
+            <a href="https://nextpublishing.jp/book/17447.html" target="_blank">
                 <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./20240201.jpg"
                       altText="「実践Reactコンポーネントライブラリ開発」の書影" title="商業本が発売されました！"
                       cardText="インプレスR&D様よりReactコンポーネントライブラリの本を出させていただきました。"/>
