@@ -22,7 +22,7 @@
     <div class="activity-card-wrapper">
         <div class="card-padding">
             <a href="https://reiji1020.hatenablog.com/entry/2024/05/27/172504" target="_blank">
-                <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./thumbnail.png"
+                <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./Blog.png"
                       altText="汎用サムネイル画像" title="技術書典16オフラインイベント参加レポ"
                       cardText="技術書典16のオフラインイベントへサークル参加した際の振り返り記事を書きました。"/>
             </a>
@@ -36,16 +36,16 @@
         </div>
         <div class="card-padding">
             <a href="https://github.com/reiji1020/ccl-component-kit4svelte" target="_blank">
-                <Card borderColor={CCLVividColor.SODA_BLUE} src="./thumbnail.png"
-                      altText="汎用サムネイル画像" title="Svelte製UIライブラリ開発中！"
+                <Card borderColor={CCLVividColor.SODA_BLUE} src="./Programming.png"
+                      altText="ProgrammingImage" title="Svelte製UIライブラリ開発中！"
                       cardText="完全Svelte製のUIコンポーネントライブラリ「cclkit4svelte」開発中です！"/>
             </a>
         </div>
         <div class="card-padding">
-            <a href="https://nextpublishing.jp/book/17447.html" target="_blank">
-                <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./20240201.jpg"
-                      altText="「実践Reactコンポーネントライブラリ開発」の書影" title="商業本が発売されました！"
-                      cardText="インプレスR&D様よりReactコンポーネントライブラリの本を出させていただきました。"/>
+            <a href="https://gyaopan.booth.pm/items/5793338" target="_blank">
+                <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./Writing.png"
+                      altText="WritingImage" title="商業本のお知らせ"
+                      cardText="CCLの技術同人誌を元に発行している商業誌のお知らせを掲載しています。"/>
             </a>
         </div>
     </div>
