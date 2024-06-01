@@ -13,7 +13,7 @@
 <div class="ccl-header">
     <!--    HEADER      -->
     <a href="/">
-        <Header bgColor={CCLVividColor.STRAWBERRY_PINK} height={HeaderHeight.NOMAL}/>
+        <Header bgColor={CCLVividColor.STRAWBERRY_PINK} height={HeaderHeight.NORMAL}/>
     </a>
 </div>
 <main>
