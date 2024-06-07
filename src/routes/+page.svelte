@@ -23,7 +23,7 @@
         <div class="card-padding">
             <a href="https://reiji1020.hatenablog.com/entry/2024/05/27/172504" target="_blank">
                 <Card borderColor={CCLVividColor.SODA_BLUE} src="./Blog.png"
-                      altText="汎用サムネイル画像" title="技術書典16オフラインイベント参加レポ"
+                      altText="BlogImage" title="技術書典16オフラインイベント参加レポ"
                       cardText="技術書典16のオフラインイベントへサークル参加した際の振り返り記事を書きました。"/>
             </a>
         </div>
