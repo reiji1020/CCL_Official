@@ -21,17 +21,10 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
-            <a href="https://reiji1020.hatenablog.com/entry/2024/05/27/172504" target="_blank">
-                <Card borderColor={CCLVividColor.SODA_BLUE} src="./Blog.png"
-                      altText="BlogImage" title="技術書典16オフラインイベント参加レポ"
-                      cardText="技術書典16のオフラインイベントへサークル参加した際の振り返り記事を書きました。"/>
-            </a>
-        </div>
-        <div class="card-padding">
-            <a href="https://gyaopan.booth.pm/items/5648807" target="_blank">
-                <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./Svelte.png"
-                      altText="新刊「Svelte HTML CSS 三色丼」の書影" title="技術書典16の新刊を販売しています！"
-                      cardText="技術書典16の新刊「Svelte HTML CSS 三色丼」販売中です。技術書典オンラインマーケット・BOOTHでお求めいだたけます!"/>
+            <a href="https://gyaopan.booth.pm/" target="_blank">
+                <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./Shopping.png"
+                      altText="ShoppingImage" title="新グッズの販売を開始しました"
+                      cardText="アクキー、ステッカーなどの雑貨類をBOOTHで販売開始しました。技術書と合わせてぜひどうぞ！"/>
             </a>
         </div>
         <div class="card-padding">
