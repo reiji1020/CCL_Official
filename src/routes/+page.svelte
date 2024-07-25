@@ -21,10 +21,10 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
-            <a href="https://gyaopan.booth.pm/" target="_blank">
-                <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./Shopping.png"
-                      altText="ShoppingImage" title="新グッズの販売を開始しました"
-                      cardText="アクキー、ステッカーなどの雑貨類をBOOTHで販売開始しました。技術書と合わせてぜひどうぞ！"/>
+            <a href="https://youtu.be/mXWduPpqEEY?si=dT_jK32m__VRsVYf" target="_blank">
+                <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./Video.png"
+                      altText="VideoImage" title="動画をUPしました"
+                      cardText="Live2Dで作ったアニメ―ションの動画をYoutubeにアップしました！"/>
             </a>
         </div>
         <div class="card-padding">
