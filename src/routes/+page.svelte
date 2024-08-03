@@ -21,7 +21,14 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
-            <a href="https://youtu.be/mXWduPpqEEY?si=dT_jK32m__VRsVYf" target="_blank">
+            <a href="https://nextpublishing.jp/book/17921.html" target="_blank">
+                <Card borderColor={CCLVividColor.MELON_GREEN} src="./figma_svelte.jpg"
+                      altText="FigmaSvelteCover" title="新刊(商業)のお知らせ"
+                      cardText="インプレスNextPublishingさまより「FigmaとSvelteKitで学ぶやさしいWeb開発」を出版させていただきました！"/>
+            </a>
+        </div>
+        <div class="card-padding">
+            <a href="https://nextpublishing.jp/book/17921.html" target="_blank">
                 <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./Video.png"
                       altText="VideoImage" title="動画をUPしました"
                       cardText="Live2Dで作ったアニメ―ションの動画をYoutubeにアップしました！"/>
@@ -34,13 +41,13 @@
                       cardText="完全Svelte製のUIコンポーネントライブラリ「cclkit4svelte」開発中です！"/>
             </a>
         </div>
-        <div class="card-padding">
-            <a href="https://gyaopan.booth.pm/items/5793338" target="_blank">
-                <Card borderColor={CCLVividColor.MELON_GREEN} src="./Writing.png"
-                      altText="WritingImage" title="商業本のお知らせ"
-                      cardText="CCLの技術同人誌を元に発行している商業誌のお知らせを掲載しています。"/>
-            </a>
-        </div>
+<!--        <div class="card-padding">-->
+<!--            <a href="https://gyaopan.booth.pm/items/5793338" target="_blank">-->
+<!--                <Card borderColor={CCLVividColor.MELON_GREEN} src="./Writing.png"-->
+<!--                      altText="WritingImage" title="商業本のお知らせ"-->
+<!--                      cardText="CCLの技術同人誌を元に発行している商業誌のお知らせを掲載しています。"/>-->
+<!--            </a>-->
+<!--        </div>-->
     </div>
     <ActivityLog/>
     <div style="display: flex; justify-content: center; align-items: center">
