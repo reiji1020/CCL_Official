@@ -21,17 +21,17 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
-            <a href="https://nextpublishing.jp/book/17921.html" target="_blank">
-                <Card borderColor={CCLVividColor.MELON_GREEN} src="./figma_svelte.jpg"
-                      altText="FigmaSvelteCover" title="新刊(商業)のお知らせ"
-                      cardText="インプレスNextPublishingさまより「FigmaとSvelteKitで学ぶやさしいWeb開発」を出版させていただきました！"/>
+            <a href="https://gyaopan.booth.pm/items/6140766" target="_blank">
+                <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./pnpm.png"
+                      altText="pnpm book image" title="技術書典17に参加します"
+                      cardText="技術書典17への参加が決まりました！pnpmというパッケージマネージャーに関する新刊を持っていきます。"/>
             </a>
         </div>
         <div class="card-padding">
             <a href="https://nextpublishing.jp/book/17921.html" target="_blank">
-                <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./Video.png"
-                      altText="VideoImage" title="動画をUPしました"
-                      cardText="Live2Dで作ったアニメ―ションの動画をYoutubeにアップしました！"/>
+                <Card borderColor={CCLVividColor.MELON_GREEN} src="./figma_svelte.jpg"
+                      altText="FigmaSvelteCover" title="新刊(商業)のお知らせ"
+                      cardText="インプレスNextPublishingさまより「FigmaとSvelteKitで学ぶやさしいWeb開発」を出版させていただきました！"/>
             </a>
         </div>
         <div class="card-padding">
