@@ -1,4 +1,5 @@
 export const updateData: string[][] = [
+	['2024/11', '技術書典17にサークル参加しました', 'イベント'],
 	[
 		'2024/08',
 		'インプレスNextPublishing様より「FigmaとSvelteKitで学ぶやさしいWeb開発」を出版',
