@@ -21,6 +21,13 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
+            <a href="https://cclshop.base.shop/items/95433472" target="_blank">
+                <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./brooch.jpeg"
+                      altText="brooch image" title="新作アクセサリーを販売しました"
+                      cardText="BASEにてビーズ刺繍のブローチを販売開始しました。"/>
+            </a>
+        </div>
+        <div class="card-padding">
             <a href="https://gyaopan.booth.pm/items/6140766" target="_blank">
                 <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./pnpm.png"
                       altText="pnpm book image" title="技術書典17に参加します"
