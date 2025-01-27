@@ -21,10 +21,10 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
-            <a href="https://cclshop.base.shop/items/95433472" target="_blank">
+            <a href="https://cclshop.base.shop/items/97870100" target="_blank">
                 <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./brooch.jpeg"
                       altText="brooch image" title="新作アクセサリーを販売しました"
-                      cardText="BASEにてビーズ刺繍のブローチを販売開始しました。"/>
+                      cardText="アンティークパーツを使用したブローチを販売開始しました。今回からminne,BASEで作品の購入が可能になりました！"/>
             </a>
         </div>
         <div class="card-padding">
