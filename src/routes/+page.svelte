@@ -21,17 +21,17 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
-            <a href="https://cclshop.base.shop/items/97870100" target="_blank">
-                <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./brooch.jpeg"
-                      altText="brooch image" title="新作アクセサリーを販売しました"
-                      cardText="アンティークパーツを使用したブローチを販売開始しました。今回からminne,BASEで作品の購入が可能になりました！"/>
+            <a href="https://bsky.app/profile/candychupslab.bsky.social/post/3lh64wzcwc22m" target="_blank">
+                <Card borderColor={CCLVividColor.MELON_GREEN} src="./Writing.png"
+                      altText="writing" title="技術書典18に参加申し込みをしました"
+                      cardText="技術書典18へ申し込みました。今回もオフライン・オンライン両方に申し込んでいます。"/>
             </a>
         </div>
         <div class="card-padding">
-            <a href="https://gyaopan.booth.pm/items/6140766" target="_blank">
-                <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./pnpm.png"
-                      altText="pnpm book image" title="技術書典17に参加します"
-                      cardText="技術書典17への参加が決まりました！pnpmというパッケージマネージャーに関する新刊を持っていきます。"/>
+            <a href="https://cclshop.base.shop/items/98718334" target="_blank">
+                <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./brooch.jpeg"
+                      altText="brooch image" title="新作アクセサリーを販売しました"
+                      cardText="チェコカボションとガラスビーズで作ったブローチを販売開始しました。"/>
             </a>
         </div>
         <div class="card-padding">
