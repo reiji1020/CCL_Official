@@ -21,17 +21,17 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
+            <a href="https://cclshop.base.shop/items/98936642" target="_blank">
+                <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./bookmarks.jpeg"
+                      altText="bookmarks image" title="新作ハンドメイド雑貨を販売しました"
+                      cardText="おほしさまのビーズを使ったブックマーカーを作りました。各ショップで販売中です"/>
+            </a>
+        </div>
+        <div class="card-padding">
             <a href="https://bsky.app/profile/candychupslab.bsky.social/post/3lh64wzcwc22m" target="_blank">
                 <Card borderColor={CCLVividColor.MELON_GREEN} src="./Writing.png"
                       altText="writing" title="技術書典18に参加申し込みをしました"
                       cardText="技術書典18へ申し込みました。今回もオフライン・オンライン両方に申し込んでいます。"/>
-            </a>
-        </div>
-        <div class="card-padding">
-            <a href="https://cclshop.base.shop/items/98718334" target="_blank">
-                <Card borderColor={CCLVividColor.PINEAPPLE_YELLOW} src="./brooch.jpeg"
-                      altText="brooch image" title="新作アクセサリーを販売しました"
-                      cardText="チェコカボションとガラスビーズで作ったブローチを販売開始しました。"/>
             </a>
         </div>
         <div class="card-padding">
