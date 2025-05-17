@@ -21,10 +21,10 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
-            <a href="https://bsky.app/profile/candychupslab.bsky.social/post/3lh64wzcwc22m" target="_blank">
-                <Card borderColor={CCLVividColor.MELON_GREEN} src="./Writing.png"
-                      altText="writing" title="技術書典18への出展が決まりました"
-                      cardText="技術書典18への出展申し込みの結果スペースをいただけることになりました！新刊が出せるように頑張ります！"/>
+            <a href="https://gyaopan.booth.pm/items/6937110" target="_blank">
+                <Card borderColor={CCLVividColor.MELON_GREEN} src="./emble.png"
+                      altText="writing" title="技術書典18・新刊のお知らせ"
+                      cardText="技術書典18の新刊情報を公開しました！AI×刺繍がテーマの本です。"/>
             </a>
         </div>
         <div class="card-padding">
