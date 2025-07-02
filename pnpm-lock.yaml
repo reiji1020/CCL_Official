@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   cclkit4svelte:
-    specifier: ^1.1.0
-    version: 1.1.0
+    specifier: ^2.0.0
+    version: 2.0.0
 
 devDependencies:
   '@sveltejs/adapter-static':
@@ -931,11 +931,11 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /cclkit4svelte@1.1.0:
-    resolution: {integrity: sha512-kAyrsaJ+YyGZBT5WDtkrVttds603i3EPeVdpreoZvIcAe80xWdouB50ogubvrdowluFslb+ifkhMT0d6K4ytJQ==}
+  /cclkit4svelte@2.0.0:
+    resolution: {integrity: sha512-fFKKLeseVceRyqKjhGmi6PIEvpSDB3+PoH8jUSrGBhp9s2D/jfU5St3FNPDdtZh+WNC406POopPhjgbfZSIQZQ==}
     requiresBuild: true
     dependencies:
-      luxon: 3.5.0
+      luxon: 3.6.1
     dev: false
 
   /chai@4.5.0:
@@ -1621,8 +1621,8 @@ packages:
       get-func-name: 2.0.2
     dev: true
 
-  /luxon@3.5.0:
-    resolution: {integrity: sha512-rh+Zjr6DNfUYR3bPwJEnuwDdqMbxZW7LOQfUN4B54+Cl+0o5zaU9RJ6bcidfDtC1cWCZXQ+nvX8bf6bAji37QQ==}
+  /luxon@3.6.1:
+    resolution: {integrity: sha512-tJLxrKJhO2ukZ5z0gyjY1zPh3Rh88Ej9P7jNrZiHMUXHae1yvI2imgOZtL1TO8TW6biMMKfTtAOoEJANgtWBMQ==}
     engines: {node: '>=12'}
     dev: false
 
