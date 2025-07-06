@@ -21,6 +21,13 @@
     <SubTitle/>
     <div class="activity-card-wrapper">
         <div class="card-padding">
+            <a href="https://ccl-cross.netlify.app/" target="_blank">
+                <Card borderColor={CCLVividColor.STRAWBERRY_PINK} src="./cross_official.png"
+                      altText="cross_official" title="新サービス「CROSS」をリリースしました"
+                      cardText="お手持ちの写真からクロスステッチの図案を作るサービス「CROSS」を開発・リリースしました！"/>
+            </a>
+        </div>
+        <div class="card-padding">
             <a href="https://gyaopan.booth.pm/items/6937110" target="_blank">
                 <Card borderColor={CCLVividColor.MELON_GREEN} src="./emble.png"
                       altText="writing" title="技術書典18・新刊のお知らせ"
