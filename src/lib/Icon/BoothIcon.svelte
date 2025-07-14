@@ -1,8 +1,13 @@
 <script lang="ts">
-    /**
+    
+    interface Props {
+        /**
      * BOOTHのショップページへのリンク
      */
-    export let url : string;
+        url: string;
+    }
+
+    let { url }: Props = $props();
 </script>
 
 <div class="booth-logo">

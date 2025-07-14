@@ -1,8 +1,13 @@
 <script lang="ts">
-    /**
+    
+    interface Props {
+        /**
      * Teitchのチャンネルページへのリンク
      */
-    export let url : string;
+        url: string;
+    }
+
+    let { url }: Props = $props();
 </script>
 
 <div class="twitch-logo">
