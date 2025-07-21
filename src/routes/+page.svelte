@@ -6,15 +6,13 @@
     import Members from "$lib/component/Members.svelte";
     import NavBar from "$lib/component/NavBar.svelte";
 
-    import {updateTitle} from "$lib/assets/updateTableHeader.ts";
-    import {updateData} from "$lib/assets/updateData.ts";
+    import {updateTitle} from "$lib/assets/updateTableHeader";
+    import {updateData} from "$lib/assets/updateData";
 </script>
 
 <div class="ccl-header">
     <!--    HEADER      -->
-    <a href="/">
-        <Header bgColor={CCLVividColor.STRAWBERRY_PINK} height={HeaderHeight.NORMAL}/>
-    </a>
+    <Header bgColor={CCLVividColor.STRAWBERRY_PINK} height={HeaderHeight.NORMAL}/>
 </div>
 <main>
     <!--    MainCard-->

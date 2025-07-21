@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   cclkit4svelte:
-    specifier: ^2.0.0
-    version: 2.0.0
+    specifier: ^2.0.2
+    version: 2.0.2
 
 devDependencies:
   '@sveltejs/adapter-static':
@@ -1083,8 +1083,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /cclkit4svelte@2.0.0:
-    resolution: {integrity: sha512-fFKKLeseVceRyqKjhGmi6PIEvpSDB3+PoH8jUSrGBhp9s2D/jfU5St3FNPDdtZh+WNC406POopPhjgbfZSIQZQ==}
+  /cclkit4svelte@2.0.2:
+    resolution: {integrity: sha512-6xWUIceoVEDRiRyqWTrVnjQKN7cgbS+PC2ZJ6QTHdsm4EM8j2Y9sa0PIKjQiGDw7jZ2F/ssA+J46w5vhZZcBDQ==}
     requiresBuild: true
     dependencies:
       luxon: 3.7.1
